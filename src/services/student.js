@@ -102,6 +102,7 @@ export default class studentService {
                     date:1,
                     sum:1
                 })
+                // here we can project again and using map inside project can filter more 
             
             
             .then(data => {
